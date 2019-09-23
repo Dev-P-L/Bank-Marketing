@@ -1,4 +1,4 @@
-Bank-Marketing
+# Bank-Marketing
 
 This Data Science project in R is the second part from the capstone examination 
 organized by Harvard University on the edX platform in the framework 
