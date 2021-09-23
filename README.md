@@ -13,5 +13,16 @@ It has been produced in R Mardown by the file Report.Rmd. All code is included i
 The code is also contained in an R script, i.e. in Script.R. 
 Script.R contains more technical comments than the R Markdown file Report.Rmd.
 
+Wishing to visualize Report.pdf? Veery easy: just download it. 
+
+Wishing to visualize Report.html? You could
+
+    use https://raw.githack.com/ 
+    according to https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source ,
+    
+    or knit SA_Amazon_Code_Revisited.Rmd in RStudio to produce SA_Amazon_Insights_Results_Revisited.html ,
+    
+    or ask me a copy of SA_Amazon_Insights_Results_Revisited.html by email.
+
 
 
