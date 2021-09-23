@@ -15,14 +15,12 @@ Script.R contains more technical comments than the R Markdown file Report.Rmd.
 
 Wishing to visualize Report.pdf? Veery easy: just download it. 
 
-Wishing to visualize Report.html? You could
+Wishing to visualize Report.html? 
 
-    use https://raw.githack.com/ 
-    according to https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source ,
-    
-    or knit SA_Amazon_Code_Revisited.Rmd in RStudio to produce SA_Amazon_Insights_Results_Revisited.html ,
-    
-    or ask me a copy of SA_Amazon_Insights_Results_Revisited.html by email.
+You could use https://raw.githack.com/ , as suggested in 
+https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
+Just go to https://raw.githack.com/ , insert the URL of Report.html, 
+which is https://github.com/Dev-P-L/Bank-Marketing/blob/master/Report.html , 
+and you'll get a new URL which can be activated on the Internet and deliver Report.html .
 
-
-
+Alternatively, you could knit Report.Rmd or ask me a copy of Report.html by email. 
