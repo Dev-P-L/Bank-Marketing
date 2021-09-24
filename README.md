@@ -17,7 +17,7 @@ Wishing to visualize Report.pdf? Very easy: just download it from GitHub.
 
 Wishing to visualize Report.html? 
 
-You could open it in GitHub Desktop. 
+#^You could open it in GitHub Desktop. 
 
 Alternatively, you could use the link 
 https://rawcdn.githack.com/Dev-P-L/Bank-Marketing/17b63a112231f23fa7729ed62b9a5998b0a1adad/Report.html
