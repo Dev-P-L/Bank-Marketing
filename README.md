@@ -17,10 +17,9 @@ Wishing to visualize Report.pdf? Very easy: just download it from GitHub.
 
 Wishing to visualize Report.html? 
 
-You could use https://raw.githack.com/ , as suggested in 
+You could use the link https://rawcdn.githack.com/Dev-P-L/Bank-Marketing/17b63a112231f23fa7729ed62b9a5998b0a1adad/Report.html
+which, when activated, delivers Report.html to the browser with the correct Content-Type headers and not with Content-Type of text/plain. 
+The link has been obtained by introducing the GitHub link of Report.html into https://raw.githack.com/ , as suggested in 
 https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
-Just go to https://raw.githack.com/ , insert the URL of Report.html, 
-which is https://github.com/Dev-P-L/Bank-Marketing/blob/master/Report.html , 
-and you'll get a new URL, which can be activated on the Internet and deliver Report.html .
 
 Alternatively, you could knit Report.Rmd or ask me a copy of Report.html by email. 
