@@ -26,4 +26,4 @@ and not with Content-Type of text/plain. The URL has been obtained by introducin
 into https://raw.githack.com/ , as suggested in 
 https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
 
- * Alternatively again, you could knit Report.Rmd or ask me by email for a copy of Report.html. 
+  * Alternatively again, you could knit Report.Rmd or ask me by email for a copy of Report.html. 
