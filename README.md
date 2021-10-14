@@ -16,14 +16,8 @@ Script.R contains more technical comments than the R Markdown file Report.Rmd.
 
 * Wishing to visualize Report.pdf? Very easy: just download it from GitHub. 
 
-* Wishing to visualize Report.html? 
+Wishing to visualize *Report.htlm*?
 
-  * You could open it in GitHub Desktop. 
-
-  * Alternatively, you could use the URL
-https://rawcdn.githack.com/Dev-P-L/Bank-Marketing/17b63a112231f23fa7729ed62b9a5998b0a1adad/Report.html
-which, when activated, delivers Report.html to the browser with the correct Content-Type headers. The URL has been obtained by introducing the GitHub URL of Report.html 
-into https://raw.githack.com/ as suggested in 
-https://stackoverflow.com/questions/6551446/can-i-run-html-files-directly-from-github-instead-of-just-viewing-their-source .
-
-  * Alternatively again, you could knit Report.Rmd or ask me by email for a copy of Report.html. 
+  * You could activate the hyperlink *https://dev-p-l.github.io/Bank-Marketing/Report.html* .
+  * Alternatively, you could open it in GitHub Desktop.
+  * Alternatively again, you could knit *Report.Rmd* or ask me by email for a copy of *Report.htlm* .
