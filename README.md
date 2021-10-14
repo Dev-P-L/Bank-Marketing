@@ -16,7 +16,7 @@ Script.R contains more technical comments than the R Markdown file Report.Rmd.
 
 * Wishing to visualize Report.pdf? Very easy: just download it from GitHub. 
 
-Wishing to visualize *Report.htlm*?
+* Wishing to visualize *Report.htlm*?
 
   * You could activate the hyperlink *https://dev-p-l.github.io/Bank-Marketing/Report.html* .
   * Alternatively, you could open it in GitHub Desktop.
