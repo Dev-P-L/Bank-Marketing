@@ -6,7 +6,7 @@ https://dev-p-l.github.io/Bank-Marketing/Report.html
 <br>
 
 # Swift Presentation of Machine Learning Project on
-# Targeting Direct Bank Marketing Campaign
+# Direct Bank Marketing Campaign
 
 This Data Science project in R is the second part from the capstone examination 
 organized by Harvard University on the edX platform in the framework 
@@ -28,4 +28,3 @@ Script.R contains more technical comments than the R Markdown file Report.Rmd.
 
   * You could activate the hyperlink https://dev-p-l.github.io/Bank-Marketing/Report.html .
   * Alternatively, you could open it in GitHub Desktop.
-  * Alternatively again, you could knit *Report.Rmd* or ask me by email for a copy of *Report.htlm* .
